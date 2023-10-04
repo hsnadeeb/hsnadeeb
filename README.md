@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i am Hasan a Software Engineer from Lucknow, India.<br>🔭 I’m currently working on my Frontend development skills.<br>👯 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with interviews and frontend technologies.<br>🌱 I’m currently learning react.js<br>⚡ Fun fact i have 3 backlogs ',:-).
+Hi, i am Hasan a Software Engineer from Lucknow, India.<br>🔭 I’m currently working on my Frontend development skills.<br>👯 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with interviews and frontend technologies.<br>🌱 I’m currently learning react.js'.
 
 
 ## 🌐 Socials:
